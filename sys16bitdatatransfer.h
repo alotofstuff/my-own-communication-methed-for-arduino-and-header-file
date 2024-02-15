@@ -1,9 +1,22 @@
-#define clk 12
-#define dtatran 11
-char bin_pwn[] = "0000000000000000";
-
-
-void datatransfer(char binary) {
+#define clockpin 12
+#define datapin 11
+char binval1;
+char binval2;
+char binval3;
+char binval4;
+char binval5;
+char binval6;
+char binval7;
+char binval8;
+char binval9;
+char binval10;
+char binval11;
+char binval12;
+char binval13;
+char binval14;
+char binval15;
+char binval16;
+void datatransfer() {
   
   
 }
